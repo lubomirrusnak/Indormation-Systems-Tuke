@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82059E80-05F8-4C33-A052-13672D5776DF}|Zadanie DSR\\Zadanie DSR.csproj|c:\\users\\lubom\\projekty\\informacnysystemdsr\\rusnak_lubomir\\zadanie dsr\\zadanie dsr\\material_skladform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82059E80-05F8-4C33-A052-13672D5776DF}|Zadanie DSR\\Zadanie DSR.csproj|solutionrelative:zadanie dsr\\material_skladform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82059E80-05F8-4C33-A052-13672D5776DF}|Zadanie DSR\\Zadanie DSR.csproj|C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\zadanie dsr\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82059E80-05F8-4C33-A052-13672D5776DF}|Zadanie DSR\\Zadanie DSR.csproj|solutionrelative:zadanie dsr\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82059E80-05F8-4C33-A052-13672D5776DF}|Zadanie DSR\\Zadanie DSR.csproj|C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\zadanie dsr\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82059E80-05F8-4C33-A052-13672D5776DF}|Zadanie DSR\\Zadanie DSR.csproj|solutionrelative:zadanie dsr\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Material_SkladForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\Zadanie DSR\\Material_SkladForm2.cs",
+              "RelativeDocumentMoniker": "Zadanie DSR\\Material_SkladForm2.cs",
+              "ToolTip": "C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\Zadanie DSR\\Material_SkladForm2.cs [Design]",
+              "RelativeToolTip": "Zadanie DSR\\Material_SkladForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:47:51.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\Zadanie DSR\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Zadanie DSR\\HomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\Zadanie DSR\\HomeForm.Designer.cs",
+              "RelativeToolTip": "Zadanie DSR\\HomeForm.Designer.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-21T15:47:51.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lubom\\projekty\\InformacnySystemDSR\\Rusnak_Lubomir\\Zadanie DSR\\Zadanie DSR\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Zadanie DSR\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\lubom\\OneDrive\\Po\u010D\u00EDta\u010D\\skola\\Zadanie DSR\\Zadanie DSR\\Zadanie DSR\\HomeForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Po\u010D\u00EDta\u010D\\skola\\Zadanie DSR\\Zadanie DSR\\Zadanie DSR\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-21T15:47:51.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

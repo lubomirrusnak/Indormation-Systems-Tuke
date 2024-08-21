@@ -1,0 +1,22 @@
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\bin\Debug\Zadanie DSR.exe.config
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\bin\Debug\Zadanie DSR.exe
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\bin\Debug\Zadanie DSR.pdb
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\bin\Debug\Guna.UI2.dll
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.Form1.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.HomeForm.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.PlanForm.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.Properties.Resources.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie DSR.csproj.GenerateResource.cache
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie DSR.csproj.CoreCompileInputs.cache
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie DSR.csproj.CopyComplete
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie DSR.exe
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie DSR.pdb
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie DSR.csprojAssemblyReference.cache
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.Material_SkladForm2.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.Vyrobny_SkladForm2.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.ProduktForm2.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.ObjednavkyForm2.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.zamestnaniciForm2.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.zakazniciForm2.resources
+C:\Users\Pifkoooo\source\repos\Zadanie DSR\Zadanie DSR\obj\Debug\Zadanie_DSR.zamestnanecForm3.resources
